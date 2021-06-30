@@ -1,0 +1,2 @@
+class SaleCoffe < ApplicationRecord
+end

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  beer: MyString
+  amount: 1
+  date_time: 2021-06-29 22:58:50
+
+two:
+  beer: MyString
+  amount: 1
+  date_time: 2021-06-29 22:58:50
