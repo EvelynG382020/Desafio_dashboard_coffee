@@ -12,6 +12,6 @@ require 'faker'
         origin: Faker::Coffee.origin, 
         blend_name: Faker::Coffee.blend_name,
         price: rand(1990..5490), 
-        date_time: Faker::Date.between(from: 4.year.ago, to: Date.today)
+        date_time: Faker::Date.between(from: '2017-01-01', to: Date.today)
     ) 
 end
